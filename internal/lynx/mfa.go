@@ -1,0 +1,5 @@
+package lynx
+
+func mfa() {
+
+}
